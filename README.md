@@ -2,7 +2,7 @@ Senior Software Developer with experience building hybrid web applications used 
 
 In my spare time I like to stay active, learn new things, exercise my green thumbs, and bake 🏃‍♂️📚🪴🥐.
 
-🌱 I’m currently learning React/Nextjs, Latex, and generally playing around.
+🌱 I’m currently learning React/Nextjs.
 
 <!--
 **pointdexter3/pointdexter3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
