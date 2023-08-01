@@ -1,6 +1,6 @@
 Senior Software Developer with experience building hybrid web applications used by millions of Canadians.
 
-In my spare time I like to stay active, learn new things, exercise my green thumbs, and bake 🏃‍♂️📚🪴🥐.
+In my spare time I like to stay active, learn new things, and bake 🏃‍♂️📚🪴🥐.
 
 🌱 I’m currently learning React/Nextjs.
 
