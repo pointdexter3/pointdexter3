@@ -3,7 +3,9 @@ Senior Software Developer with experience building hybrid web applications used 
 In my spare time I like to stay active, learn new things, and bake 🏃‍♂️📚🪴🥐.
 
 🌱 I’m currently learning React/Nextjs.
-🔭 I was recently inspired to create a csv formatter for importing into the Simplifi budgeting app.
+
+🔭 I was recently inspired to create a [csv formatter](https://github.com/pointdexter3/simplifi-csv-formatter) for importing BA/CC csv files into the Simplifi budgeting app.
+
 🏗️ Considering putting more effort into creating portfolio projects...
 
 
