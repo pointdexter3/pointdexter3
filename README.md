@@ -1,12 +1,14 @@
-# Who u?
+# About me
+
 Senior Software Developer with experience building hybrid web applications used by millions of Canadians.
 
-In my spare time I like to stay active, learn new things, and bake 🏃‍♂️📚🪴🥐.
+In my spare time I like to stay active, learn new things, and obsess over the details 🏃‍♂️📚🪴🥐
 
-# Whatcha doing? 
+# Whatcha doing now?
 📖 Reading fantasy<br>
-🌱 Learning React/Nextjs<br>
-🧶 Playing around<br>
+🧶 Crotchet<br>
+🏃‍♂️ Beginner runner<br>
+⚙️ Minor tinkering<br>
 
 
 # Simplifi CSV Importer
