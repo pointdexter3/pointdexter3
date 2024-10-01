@@ -10,12 +10,16 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 🏃‍♂️ ~~Beginner~~ Novice runner<br>
 ⚙️ Minor tinkering<br>
 
+<br />
 
 # Simplifi OFX Importer
 🔭 I was recently inspired to create a [OFX to Simplify CSV Converter](https://github.com/pointdexter3/simplifi-csv-formatter) for builk importing transactions into the Simplifi budgeting app.
 - Applies to Simplifi Manual Accounts, for those that do not wish to share their FI credentials with 3rd parties. Interim solution until Canada's Open Banking is widely adopted.
 - V1: Initial implementation was a trial of using chatgpt to help me work through things I was less familiar with (more advanced bash scripting, csv parsing / modification). to limited success (my expereince was that if the problem was non-trivial I would hit a wall of lies at maybe 70% of the solution)
 - V2: Rewritten to use nodejs/typescript and parse FI's exported OFX standard files. OFX over the initial implementations CSV as the latter was wildly inconsistent between differents FI's and accounts.
+
+  
+<br />
 
 # Bulk import TODOIST project template files [(sync api V9)](https://developer.todoist.com/sync/v9/#overview).
 
@@ -36,6 +40,17 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 > [Generate temp id](https://www.icloud.com/shortcuts/c3095a21e16544ae9e039dd149f7f23c)
 
 <sub> if templates are in iCloud, make sure they are downloaded</sub>
+
+
+<br />
+
+# TODOIST natural language actions
+- Create a task using natural language (dates/projects/reoccurring/etc).
+- Add as a trigger for the iphone/watch action button or through siri.
+- [iOS shortcut](https://www.icloud.com/shortcuts/b2427f179262431b82203b9d4331a050).
+- Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
+- Example of minor customization, create tasks for "today" without needing to specificy [Today Tasks](https://www.icloud.com/shortcuts/6586fc241af34eb5a333c28c950d504e)
+
 
 # 🏗️ Under construction...
 
