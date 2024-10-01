@@ -37,7 +37,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 <sub> if templates are in iCloud, make sure they are downloaded</sub>
 
-# 🏗️ Considering putting more effort into creating portfolio projects...
+# 🏗️ Under construction...
 
 
 <!--
