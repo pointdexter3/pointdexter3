@@ -11,8 +11,9 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 ⚙️ Minor tinkering<br>
 
 
-# Simplifi CSV Importer
-🔭 I was recently inspired to create a [csv formatter](https://github.com/pointdexter3/simplifi-csv-formatter) for importing BA/CC csv files into the Simplifi budgeting app.
+# Simplifi OFX Importer
+🔭 I was recently inspired to create a [OFX to Simplify CSV Converter](https://github.com/pointdexter3/simplifi-csv-formatter) for builk importing transactions into the Simplifi budgeting app.
+<i>(Simplify manual accounts, for those that do not wish to share their FI credentials with 3rd parties. Got tired of awaiting Canada's Open Banking adoption</i>
 
 # Bulk import TODOIST project template files [(sync api V9)](https://developer.todoist.com/sync/v9/#overview).
 
