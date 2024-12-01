@@ -6,7 +6,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 # Whatcha doing now?
 📖 Reading fantasy<br>
-🧶 Crotchet<br>
+🧶 Crotchet, Pottery, Baking<br>
 🏃‍♂️ ~~Beginner~~ Novice runner<br>
 ⚙️ Minor tinkering<br>
 
@@ -44,12 +44,38 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 <br />
 
+# iOS Shortcuts (mini quick and dirty I created for personal usage)
+
+<br />
+
+<br />
+
+
 # TODOIST natural language actions
 - Create a task using natural language (dates/projects/reoccurring/etc).
 - Add as a trigger for the iphone/watch action button or through siri.
 - [iOS shortcut](https://www.icloud.com/shortcuts/b2427f179262431b82203b9d4331a050).
 - Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
 - Example of minor customization, create tasks for "today" without needing to specificy [Today Tasks](https://www.icloud.com/shortcuts/6586fc241af34eb5a333c28c950d504e)
+
+
+<br />
+
+# Create Calendar Event from Text via ShareSheet (ChatGPT)
+- Usecase: email events that do not provide an ICS file. Copy the text in the email and have the shortcut autopopulate the event details.
+- [iOS shortcut](https://www.icloud.com/shortcuts/e63fc6d936eb4605b6dc6d9f34b7b9d4).
+- Setup:
+  - Install ChatGPT app
+  - Save shortcut (uses chatGPT shortcuts app integration)
+  - ℹ️ click info button on shortcut screen -> toggle on "Show in Share Sheet"
+- Use:
+  - Select text
+  - click Share
+  - scroll to bottom of share sheet to find the "Create Calendar Event From Text - github" option
+  - create calendar screen will appear with all the details filled, verify title/dates/details are as expected and click save to calendar
+     
+
+
 
 
 # 🏗️ Under construction...
