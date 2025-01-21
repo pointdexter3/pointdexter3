@@ -92,7 +92,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 
 # TODOIST bulk add to grocery list (ChatGPT)
-- Speak a list of items and have them added as tasks to your grocert list project in Todoist
+- Speak a list of items and have them added as tasks to your grocery list project in Todoist
 - [iOS shortcut dependency](https://www.icloud.com/shortcuts/0d1f6296cac04f07b873709c2ecacee6), have chatgpt determine list items
 - [iOS shortcut main](https://www.icloud.com/shortcuts/f62a08c3b4fb4016b905ec20f97387e6)
 - Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
@@ -104,7 +104,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
   - trigger shortcut (action button or rename to work better with siri
   - speak a list of items   
   - items are added to grocery list in todoist
-  - care to avoid ambiguity eg "ketchup chips" cluld be 2 items or 1
+  - care to avoid ambiguity eg "ketchup chips" could be 2 items or 1
 
 
 
