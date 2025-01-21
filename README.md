@@ -113,7 +113,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 <br />
 
 # MeadowStore [WIP]
-- simple iOS app with shortcut intents to allow saving key/value pairs via icloud storage
+- simple iOS app with shortcut intents to allow saving key/value pairs via icloud storage for use as persistent storage for iOS shortcuts 
 - not currently available in testflight
 
 
