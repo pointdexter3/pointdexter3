@@ -72,13 +72,49 @@ In my spare time I like to stay active, learn new things, and obsess over the de
   - Select text
   - click Share
   - scroll to bottom of share sheet to find the "Create Calendar Event From Text - github" option
-  - create calendar screen will appear with all the details filled, verify title/dates/details are as expected and click save to calendar
-     
+  - create calendar screen will appear with all the details filled, verify title/dates/details are as expected and click save to <br />
 
+
+<br />
+
+# Add non-savable calendar events / ics files to calendar via ShareSheet
+- Usecase: on iOS sometimes you open an event that doesn't have the "add to calendar" option.
+- [iOS shortcut](https://www.icloud.com/shortcuts/731104142ad64f8aa51aeaae9e5a7808).
+- Setup:
+  - ℹ️ click info button on shortcut screen -> toggle on "Show in Share Sheet"
+- Use:
+  - calendar event screen without the add option
+  - click the Share option   
+  - scroll to bottom of share sheet to find the "import ics - github" option
+
+
+<br />
+
+
+# TODOIST bulk add to grocery list (ChatGPT)
+- Speak a list of items and have them added as tasks to your grocert list project in Todoist
+- [iOS shortcut dependency](https://www.icloud.com/shortcuts/0d1f6296cac04f07b873709c2ecacee6), have chatgpt determine list items
+- [iOS shortcut main](https://www.icloud.com/shortcuts/f62a08c3b4fb4016b905ec20f97387e6)
+- Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
+- Setup:
+  - Install ChatGPT app
+  - Save shortcut (uses chatGPT shortcuts app integration)
+  - Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
+- Use:
+  - trigger shortcut (action button or rename to work better with siri
+  - speak a list of items   
+  - items are added to grocery list in todoist
+  - care to avoid ambiguity eg "ketchup chips" cluld be 2 items or 1
 
 
 
 # 🏗️ Under construction...
+
+<br />
+
+# MeadowStore [WIP]
+- simple iOS app with shortcut intents to allow saving key/value pairs via icloud storage
+- not currently available in testflight
 
 
 <!--
