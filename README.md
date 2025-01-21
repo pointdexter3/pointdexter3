@@ -7,7 +7,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 # Whatcha doing now?
 📖 Reading fantasy<br>
 🧶 Crotchet, Pottery, Baking<br>
-🏃‍♂️ ~~Beginner~~ Novice runner<br>
+🏃‍♂️ ~~Beginner~~ ~~Novice~~ aspiring intermediate(?) runner<br>
 ⚙️ Minor tinkering<br>
 
 <br />
