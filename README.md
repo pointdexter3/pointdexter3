@@ -33,11 +33,11 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 ***Great for vacation checklists*** 🥰
 
 ## Main shortcut
-> https://www.icloud.com/shortcuts/6f21ced9d61f4c1faf516f30b9160ea8
+> UPDATE_LINK
 
 ## Relies on the following utilities (extracted to reduce noise, haven’t looked at how to make dependencies shareable with shortcuts):
-> [Generate uuid](https://www.icloud.com/shortcuts/c58fe8d7739b47f8b3fa8cd5d9744eae)<br>
-> [Generate temp id](https://www.icloud.com/shortcuts/c3095a21e16544ae9e039dd149f7f23c)
+> [Generate uuid]()UPDATE_LINK<br>
+> [Generate temp id]()UPDATE_LINK
 
 <sub> if templates are in iCloud, make sure they are downloaded</sub>
 
@@ -54,7 +54,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 # TODOIST natural language actions
 - Create a task using natural language (dates/projects/reoccurring/etc).
 - Add as a trigger for the iphone/watch action button or through siri.
-- [iOS shortcut](https://www.icloud.com/shortcuts/b2427f179262431b82203b9d4331a050).
+- [iOS shortcut]() UPDATE_LINK.
 - Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
 - Example of minor customization, create tasks for "today" without needing to specificy [Today Tasks](https://www.icloud.com/shortcuts/6586fc241af34eb5a333c28c950d504e)
 
@@ -63,7 +63,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 # Create Calendar Event from Text via ShareSheet (ChatGPT)
 - Usecase: email events that do not provide an ICS file. Copy the text in the email and have the shortcut autopopulate the event details.
-- [iOS shortcut](https://www.icloud.com/shortcuts/e63fc6d936eb4605b6dc6d9f34b7b9d4).
+- [iOS shortcut]() UPDATE_LINK.
 - Setup:
   - Install ChatGPT app
   - Save shortcut (uses chatGPT shortcuts app integration)
@@ -79,7 +79,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 # Add non-savable calendar events / ics files to calendar via ShareSheet
 - Usecase: on iOS sometimes you open an event that doesn't have the "add to calendar" option.
-- [iOS shortcut](https://www.icloud.com/shortcuts/731104142ad64f8aa51aeaae9e5a7808).
+- [iOS shortcut]() UPDATE_LINK.
 - Setup:
   - ℹ️ click info button on shortcut screen -> toggle on "Show in Share Sheet"
 - Use:
@@ -93,8 +93,8 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 # TODOIST bulk add to grocery list (ChatGPT)
 - Speak a list of items and have them added as tasks to your grocery list project in Todoist
-- [iOS shortcut dependency](https://www.icloud.com/shortcuts/0d1f6296cac04f07b873709c2ecacee6), have chatgpt determine list items
-- [iOS shortcut main](https://www.icloud.com/shortcuts/f62a08c3b4fb4016b905ec20f97387e6)
+- [iOS shortcut dependency]() UPDATE_LINK, have chatgpt determine list items
+- [iOS shortcut main]() UPDATE_LINK
 - Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
 - Setup:
   - Install ChatGPT app
