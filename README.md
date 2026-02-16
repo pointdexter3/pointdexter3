@@ -44,7 +44,15 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 <br />
 
-# iOS Shortcuts (mini quick and dirty I created for personal usage)
+<br />
+
+<br />
+
+<br />
+
+# iOS Shortcuts
+
+<br />
 
 <br />
 
@@ -52,12 +60,25 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 
 # TODOIST natural language actions
-- Create a task using natural language (dates/projects/reoccurring/etc).
-- Add as a trigger for the iphone/watch action button or through siri.
-- [iOS shortcut]() UPDATE_LINK.
-- Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
-- Example of minor customization, create tasks for "today" without needing to specificy [Today Tasks](https://www.icloud.com/shortcuts/6586fc241af34eb5a333c28c950d504e)
+- Problem: Todoist iOS shortcuts do not allow for natural language for dates/times
+- Opportunity: minimize the interaction as much as possible when creating todoist tasks in iOS.
+  - I want to activate siri using language I find more natural
+  - I want to pre-configure due dates & projects
+  - I want to be able to avoid accidental natural language interpretation (pre-configurations are appended to the end of the text sent to Todoist API)
 
+
+| activate siri → voice command | user dictated text        | text sent to API             | Todoist task                        |
+|------------------------------|----------------------------|------------------------------|-------------------------------------|
+|  |  |  |
+| task                         | empty the litterbox tomorrow | empty the litterbox tomorrow       | empty the litterbox (due date: tomorrow)                |
+| today                        | empty the litterbox tomorrow | empty the litterbox tomorrow today | empty the litterbox tomorrow (due date: today)          |
+| add to grocery list          | apples saturday              | apples saturday #Grocery\ List     | apples (project "Grocery List", due date: this Saturday) |
+| today                        | empty the litterbox          | empty the litterbox today          | empty the litterbox (due date: today)                   |
+
+- [iOS shortcut - task](https://github.com/pointdexter3/iOS-shortcuts/blob/main/todoist/api_v1/Todoist-Task.shortcut)
+- [iOS shortcut - today](https://github.com/pointdexter3/iOS-shortcuts/blob/main/todoist/api_v1/Todoist-Today.shortcut)
+- [iOS shortcut - Grocery List](https://github.com/pointdexter3/iOS-shortcuts/blob/main/todoist/api_v1/Todoist-Add-To-Grocery-List.shortcut)
+- Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
 
 <br />
 
