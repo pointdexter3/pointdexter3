@@ -1,13 +1,13 @@
 # About me
 
-Senior Software Developer with experience building hybrid web applications used by millions of Canadians.
+Senior/Lead Software Developer with experience building hybrid web applications used by millions of Canadians.
 
 In my spare time I like to stay active, learn new things, and obsess over the details 🏃‍♂️📚🪴🥐
 
 # Whatcha doing now?
 📖 Reading fantasy<br>
-🧶 Crotchet, Pottery, Baking<br>
-🏃‍♂️ ~~Beginner~~ ~~Novice~~ Intermediate(aspiring?) runner<br>
+🎲 Boardgames<br>
+🏃‍♂️ Prioritizing Health / Running / Fitness with Whoop<br>
 ⚙️ Minor tinkering<br>
 
 <br />
@@ -15,13 +15,13 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 # Simplifi OFX Importer
 🔭 I was recently inspired to create a [OFX to Simplify CSV Converter](https://github.com/pointdexter3/simplifi-csv-formatter) for builk importing transactions into the Simplifi budgeting app.
 - Applies to Simplifi Manual Accounts, for those that do not wish to share their FI credentials with 3rd parties. Interim solution until Canada's Open Banking is widely adopted.
-- V1: Initial implementation was a trial of using chatgpt to help me work through things I was less familiar with (more advanced bash scripting, csv parsing / modification). to limited success (my expereince was that if the problem was non-trivial I would hit a wall of lies at maybe 70% of the solution)
+- V1: Initial implementation was my first attempt of using chatgpt to work through things I was less familiar with (more advanced bash scripting, csv parsing / modification). At the time I found if the problem was non-trivial I would hit a wall of gaslighting at maybe 70% of the solution which burned a good deal of time.  
 - V2: Rewritten to use nodejs/typescript and parse FI's exported OFX standard files. OFX over the initial implementations CSV as the latter was wildly inconsistent between differents FI's and accounts.
 
   
 <br />
 
-# Bulk import TODOIST project template files [(sync api V9)](https://developer.todoist.com/sync/v9/#overview).
+# DEPRECIATED ~~Bulk import TODOIST project template files [(sync api V9)](https://developer.todoist.com/sync/v9/#overview).~~
 
 1. Creates a parent project.
 2. Asks for project CSV template files.
