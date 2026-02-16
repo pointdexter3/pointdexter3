@@ -31,6 +31,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 <br />
 
 # iOS Shortcuts
+- Saved as files in github vs icloud sharing for versioning, clutter avoidance, accidentally sharing shortcut tokens/etc
 
 <br />
 
