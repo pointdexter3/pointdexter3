@@ -19,27 +19,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 - V2: Rewritten to use nodejs/typescript and parse FI's exported OFX standard files. OFX over the initial implementations CSV as the latter was wildly inconsistent between differents FI's and accounts.
 
   
-<br />
 
-# DEPRECIATED ~~Bulk import TODOIST project template files [(sync api V9)](https://developer.todoist.com/sync/v9/#overview).~~
-
-1. Creates a parent project.
-2. Asks for project CSV template files.
-3. Creates new projects based on the file names. 
-4. Makes the new projects sub-projects of the parent project
-5. Imports the tasks from the template CSV’s for each corresponding project
-
-
-***Great for vacation checklists*** 🥰
-
-## Main shortcut
-> UPDATE_LINK
-
-## Relies on the following utilities (extracted to reduce noise, haven’t looked at how to make dependencies shareable with shortcuts):
-> [Generate uuid]()UPDATE_LINK<br>
-> [Generate temp id]()UPDATE_LINK
-
-<sub> if templates are in iCloud, make sure they are downloaded</sub>
 
 
 <br />
@@ -98,21 +78,23 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 <br />
 
+<br />
+
 # Add non-savable calendar events / ics files to calendar via ShareSheet
 - Usecase: on iOS sometimes you open an event that doesn't have the "add to calendar" option.
-- [iOS shortcut]() UPDATE_LINK.
+- [iOS shortcut](https://github.com/pointdexter3/iOS-shortcuts/blob/main/Import%20.ics.shortcut).
 - Setup:
   - ℹ️ click info button on shortcut screen -> toggle on "Show in Share Sheet"
 - Use:
   - calendar event screen without the add option
   - click the Share option   
-  - scroll to bottom of share sheet to find the "import ics - github" option
+  - scroll to bottom of share sheet to find the "import ics" option
 
 
 <br />
 
 
-# TODOIST bulk add to grocery list (ChatGPT)
+# DEPRECIATED ~~TODOIST bulk add to grocery list (ChatGPT)~~
 - Speak a list of items and have them added as tasks to your grocery list project in Todoist
 - [iOS shortcut dependency]() UPDATE_LINK, have chatgpt determine list items
 - [iOS shortcut main]() UPDATE_LINK
@@ -127,7 +109,33 @@ In my spare time I like to stay active, learn new things, and obsess over the de
   - items are added to grocery list in todoist
   - care to avoid ambiguity eg "ketchup chips" could be 2 items or 1
 
+<br />
 
+<br />
+
+# DEPRECIATED ~~Bulk import TODOIST project template files [(sync api V9)](https://developer.todoist.com/sync/v9/#overview).~~
+
+1. Creates a parent project.
+2. Asks for project CSV template files.
+3. Creates new projects based on the file names. 
+4. Makes the new projects sub-projects of the parent project
+5. Imports the tasks from the template CSV’s for each corresponding project
+
+
+***Great for vacation checklists*** 🥰
+
+## Main shortcut
+> UPDATE_LINK
+
+## Relies on the following utilities (extracted to reduce noise, haven’t looked at how to make dependencies shareable with shortcuts):
+> [Generate uuid]()UPDATE_LINK<br>
+> [Generate temp id]()UPDATE_LINK
+
+<sub> if templates are in iCloud, make sure they are downloaded</sub>
+
+<br />
+
+<br />
 
 # 🏗️ Under construction...
 
