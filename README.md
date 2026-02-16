@@ -60,22 +60,20 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 - [iOS shortcut - Grocery List](https://github.com/pointdexter3/iOS-shortcuts/blob/main/todoist/api_v1/Todoist-Add-To-Grocery-List.shortcut)
 - Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
 
+
 <br />
 
-# Create Calendar Event from Text via ShareSheet (ChatGPT)
-- Usecase: email events that do not provide an ICS file. Copy the text in the email and have the shortcut autopopulate the event details.
-- [iOS shortcut]() UPDATE_LINK.
+# Add morning summary
+- Usecase: iOS get a morning summary of weather and calendar events when you wake up
+- [delay 30 seconds if phone is on charger - automation should trigger](https://github.com/pointdexter3/iOS-shortcuts/blob/main/morning-summary/Morning-Wake-up-Dynamic-Delay.shortcut)
+- [summary iOS shortcut](https://github.com/pointdexter3/iOS-shortcuts/blob/main/morning-summary/Morning-Summary.shortcut).
+- [get calendar events iOS shortcut](https://github.com/pointdexter3/iOS-shortcuts/blob/main/morning-summary/Get-Calendar-Events-Today.shortcut).
 - Setup:
-  - Install ChatGPT app
-  - Save shortcut (uses chatGPT shortcuts app integration)
-  - ℹ️ click info button on shortcut screen -> toggle on "Show in Share Sheet"
+  - [readme setup](https://github.com/pointdexter3/iOS-shortcuts/blob/main/morning-summary/README.md)
 - Use:
-  - Select text
-  - click Share
-  - scroll to bottom of share sheet to find the "Create Calendar Event From Text - github" option
-  - create calendar screen will appear with all the details filled, verify title/dates/details are as expected and click save to <br />
-
-
+  - trigger manually or setup wake-up automation described in readme
+ 
+    
 <br />
 
 <br />
@@ -90,6 +88,22 @@ In my spare time I like to stay active, learn new things, and obsess over the de
   - click the Share option   
   - scroll to bottom of share sheet to find the "import ics" option
 
+
+
+<br />
+
+# Create Calendar Event from Text via ShareSheet (ChatGPT)
+- Usecase: email events that do not provide an ICS file. Copy the text in the email and have the shortcut autopopulate the event details.
+- [iOS shortcut]() UPDATE_LINK.
+- Setup:
+  - Install ChatGPT app
+  - Save shortcut (uses chatGPT shortcuts app integration)
+  - ℹ️ click info button on shortcut screen -> toggle on "Show in Share Sheet"
+- Use:
+  - Select text
+  - click Share
+  - scroll to bottom of share sheet to find the "Create Calendar Event From Text - github" option
+  - create calendar screen will appear with all the details filled, verify title/dates/details are as expected and click save to <br />
 
 <br />
 
