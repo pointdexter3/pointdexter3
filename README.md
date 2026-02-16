@@ -55,9 +55,9 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 | add to grocery list          | apples saturday              | apples saturday #Grocery\ List     | apples (project "Grocery List", due date: this Saturday) |
 | today                        | empty the litterbox          | empty the litterbox today          | empty the litterbox (due date: today)                   |
 
-- [iOS shortcut - task](https://github.com/pointdexter3/iOS-shortcuts/blob/main/todoist/api_v1/Todoist-Task.shortcut)
-- [iOS shortcut - today](https://github.com/pointdexter3/iOS-shortcuts/blob/main/todoist/api_v1/Todoist-Today.shortcut)
-- [iOS shortcut - Grocery List](https://github.com/pointdexter3/iOS-shortcuts/blob/main/todoist/api_v1/Todoist-Add-To-Grocery-List.shortcut)
+- [iOS shortcut - task](https://github.com/pointdexter3/iOS-shortcuts/raw/refs/heads/main/todoist/api_v1/Todoist-Task.shortcut)
+- [iOS shortcut - today](https://github.com/pointdexter3/iOS-shortcuts/raw/refs/heads/main/todoist/api_v1/Todoist-Today.shortcut)
+- [iOS shortcut - Grocery List](https://github.com/pointdexter3/iOS-shortcuts/raw/refs/heads/main/todoist/api_v1/Todoist-Add-To-Grocery-List.shortcut)
 - Add your Todoist api key to the text block within the shortcut [How to find your api key](https://todoist.com/help/articles/find-your-api-token-Jpzx9IIlB).
 
 
@@ -65,11 +65,11 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 # Add morning summary
 - Usecase: iOS get a morning summary of weather and calendar events when you wake up
-- [delay 30 seconds if phone is on charger - automation should trigger](https://github.com/pointdexter3/iOS-shortcuts/blob/main/morning-summary/Morning-Wake-up-Dynamic-Delay.shortcut)
-- [summary iOS shortcut](https://github.com/pointdexter3/iOS-shortcuts/blob/main/morning-summary/Morning-Summary.shortcut).
-- [get calendar events iOS shortcut](https://github.com/pointdexter3/iOS-shortcuts/blob/main/morning-summary/Get-Calendar-Events-Today.shortcut).
+- [delay 30 seconds if phone is on charger - automation should trigger](https://github.com/pointdexter3/iOS-shortcuts/raw/refs/heads/main/morning-summary/Morning-Wake-up-Dynamic-Delay.shortcut)
+- [summary iOS shortcut](https://github.com/pointdexter3/iOS-shortcuts/raw/refs/heads/main/morning-summary/Morning-Summary.shortcut).
+- [get calendar events iOS shortcut](https://github.com/pointdexter3/iOS-shortcuts/raw/refs/heads/main/morning-summary/Get-Calendar-Events-Today.shortcut).
 - Setup:
-  - [readme setup](https://github.com/pointdexter3/iOS-shortcuts/blob/main/morning-summary/README.md)
+  - [readme setup](https://github.com/pointdexter3/iOS-shortcuts/raw/refs/heads/main/morning-summary/README.md)
 - Use:
   - trigger manually or setup wake-up automation described in readme
  
@@ -80,7 +80,7 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 
 # Add non-savable calendar events / ics files to calendar via ShareSheet
 - Usecase: on iOS sometimes you open an event that doesn't have the "add to calendar" option.
-- [iOS shortcut](https://github.com/pointdexter3/iOS-shortcuts/blob/main/Import%20.ics.shortcut).
+- [iOS shortcut](https://github.com/pointdexter3/iOS-shortcuts/raw/refs/heads/main/Import%20.ics.shortcut).
 - Setup:
   - ℹ️ click info button on shortcut screen -> toggle on "Show in Share Sheet"
 - Use:
