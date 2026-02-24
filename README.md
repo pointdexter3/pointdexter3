@@ -13,11 +13,11 @@ In my spare time I like to stay active, learn new things, and obsess over the de
 <br />
 
 # Simplifi OFX Importer
-🔭 I was recently inspired to create a [OFX to Simplify CSV Converter](https://github.com/pointdexter3/simplifi-csv-formatter) for builk importing transactions into the Simplifi budgeting app.
+🔭 Version 3.0 is released [OFX to Simplify CSV Converter](https://github.com/pointdexter3/simplifi-csv-formatter) for builk importing transactions into the Simplifi budgeting app.
 - Applies to Simplifi Manual Accounts, for those that do not wish to share their FI credentials with 3rd parties. Interim solution until Canada's Open Banking is widely adopted.
-- V1: Initial implementation was my first attempt of using chatgpt to work through things I was less familiar with (more advanced bash scripting, csv parsing / modification). At the time I found if the problem was non-trivial I would hit a wall of gaslighting at maybe 70% of the solution which burned a good deal of time.  
+- V1: Initial implementation was my first flirtation with earlier shitier AI code assistence tools for tasks I was less familiar with (more advanced bash scripting, csv parsing / modification). 
 - V2: Rewritten to use nodejs/typescript and parse FI's exported OFX standard files. OFX over the initial implementations CSV as the latter was wildly inconsistent between differents FI's and accounts.
-
+- V3 Quality of life release ❤️‍🔥. Smoother workflow: now you download files from FI overriting your empty template OFX files (consitent naming), run the script, and upload the files to Simplifi. Improvements include  archiving of your previous conversions (original OFX files and converted CSV), cleaning up overlapping transactions from ealier conversions.
   
 
 
